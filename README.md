@@ -3,7 +3,8 @@
 ### Dependencies configuration for java client using maven
 
 
-```<dependencies>
+```
+   <dependencies>
         <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients -->
         <dependency>
             <groupId>org.apache.kafka</groupId>
