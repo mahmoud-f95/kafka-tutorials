@@ -1,6 +1,8 @@
 # kafka-tutorials
 
 ### Dependencies configuration for java client using maven
+
+
 <dependencies>
         <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients -->
         <dependency>
