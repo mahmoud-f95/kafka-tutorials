@@ -1,7 +1,6 @@
 ### Dependencies configuration for java client using maven
 
 
-```
    <dependencies>
         <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients -->
         <dependency>
@@ -16,4 +15,4 @@
             <version>1.7.30</version>
         </dependency>
    </dependencies>
-```
+
