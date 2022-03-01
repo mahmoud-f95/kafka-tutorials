@@ -1,4 +1,4 @@
-### Dependencies configuration for java client using maven
+<!-- Dependencies configuration for java client using maven -->
 
 
    <dependencies>
