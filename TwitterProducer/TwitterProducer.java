@@ -23,10 +23,11 @@ import java.util.concurrent.TimeUnit;
 public class TwitterProducer {
 
     org.slf4j.Logger logger=  LoggerFactory.getLogger(TwitterProducer.class.getName());
-    String API_Key="EohBGn3Rl7A7qBqrluoP7kRih";
-    String Key_Secret="PPNRqIZdMggpQwI4yjFjKJCS79aEHM57nBLIuFCHR7IQu6vQRn";
-    String Access_Token="4062974362-e5Dr1zgm9MV3EFfhsGbZphdkkPPVRNj3YE0xD0r";
-    String Access_secret="8OXkctvaUmQZ9oEVJcL4R2RczVyGnwd6WSFfrAnNXaZey";
+    // add your credintials
+    String API_Key="";
+    String Key_Secret="";
+    String Access_Token="";
+    String Access_secret="";
 
 
 
