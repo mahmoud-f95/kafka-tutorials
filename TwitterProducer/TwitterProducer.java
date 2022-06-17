@@ -23,7 +23,7 @@ import java.util.concurrent.TimeUnit;
 public class TwitterProducer {
 
     org.slf4j.Logger logger=  LoggerFactory.getLogger(TwitterProducer.class.getName());
-    // add your credintials
+    // add your twitter API credintials
     String API_Key="";
     String Key_Secret="";
     String Access_Token="";
